@@ -1,5 +1,7 @@
 # CS575 Course Description
 
+**INSTRUCTOR**: Dr. Brian Mitchell - [twitter](https://twitter.com/DrBrianMitchell) 
+
 ### General Information
 When designing a significant modern software system, several design decisions about the structural, architectural, runtime and behavioral properties of the system are made and documented. In this course, techniques and notations are introduced for specifying these properties of software systems. Software systems are studied at various levels of abstraction from architectures to subsystem decompositions to module and class interfaces and dependencies.
 
